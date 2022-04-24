@@ -18,7 +18,7 @@ This dataset contains 6 different features of each talk available on TED's websi
 
 > ## Dashbord
 
-[Link](https://1drv.ms/x/s!AufGAHMfvBe8gTgg-OXofGM8ZqC5?e=ZPJHoo) to Full Interactive Dashboard!
+[Link](https://1drv.ms/x/s!AufGAHMfvBe8gTmwirahyxR1CkgD?e=Ek3XFM) to Full Interactive Dashboard!
 
 ![TEDTALK Dashboard](/TEDTALK.jpg)
 
