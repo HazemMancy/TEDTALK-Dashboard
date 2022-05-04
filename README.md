@@ -6,8 +6,6 @@ What is the most successful TEDTALK by likes and views?
 
 > ## Dataset
 
-<iframe width="1366" height="635" src="https://www.youtube.com/embed/4Kwn1pS3sgw?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This dataset contains 6 different features of each talk available on TED's website which you can find below:
 * Title - Title of the Talk
 * Author - Author of Talk
